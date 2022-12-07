@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<blogs>
+    <post>
+        <title>Our plans to invest $9.5 billion in the U.S. in 2022</title>
+        <date>Apr 13, 2022</date>
+        <author>Sundar Pichai</author>
+        <img>https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HERO_IMAGE_council-bluffs-exterior.max-1000x1000.jpg</img>
+        <summary>We plan to invest approximately $9.5 billion in communities across the U.S. and create at least 12,000 new Google jobs this year.</summary>
+        <body>Google’s offices and data centers provide vital anchors to our local communities and help us contribute to their economies. In the U.S., over the past five years, we’ve invested more than $37 billion in our offices and data centers in 26 states, creating over 40,000 full-time jobs. That’s in addition to the more than $40 billion in research and development we invested in the U.S. in 2020 and 2021.Today we’re announcing plans to invest approximately $9.5 billion in our U.S. offices and data centers in 2022. (Full details of where we’re investing are below.) Along with these investments, we expect to create at least 12,000 new full-time Google jobs by the end of the year, and thousands more among our local suppliers, partners and communities.</body>
+    </post>
+    <post>
+        <title>Extending our support to Ukrainian startups</title>
+        <date>Mar 30, 2022</date>
+        <author>Agnieszka Hryniewicz-Bieniek</author>
+        <img>https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Keyword_Image_2_2096x1182.max-1000x1000.jpg</img>
+        <summary>The ongoing humanitarian crisis in Ukraine has been devastating to witness. Much like the rest of the international community, our response has evolved as the circumstances have developed.</summary>
+        <body>The ongoing humanitarian crisis in Ukraine has been devastating to witness. Much like the rest of the international community, our response has evolved as the circumstances have developed. In addition to supporting the refugee crisis and fighting misinformation, we’re investing in Ukraine’s people and businesses.Today, we’re announcing a $5 million Google for Startups Ukraine Support Fund to allocate equity-free cash awards throughout 2022. Selected Ukraine-based startups will be announced on a rolling basis and will receive up to $100,000 in non-dilutive funding as well as ongoing Google mentorship, product support and Cloud credits. This hands-on support is designed to help Ukrainian entrepreneurs maintain and grow their businesses, strengthen their community and build a foundation for post-war economic recovery.</body>
+    </post>
+    <post>
+        <title>A new fellowship for experiments in journalism and AI</title>
+        <date>Apr 07, 2022</date>
+        <author>David Dieudonné</author>
+        <img>https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blogpost_Header_Image_1200x675.max-1000x1000.png</img>
+        <summary>Last year, 24 international newsrooms participated in the JournalismAI Collab Challenge, a Google News Initiative partnership with Polis, the journalism think-tank at the London School of Economics and Political Science.</summary>
+        <body>Last year, 24 international newsrooms participated in the JournalismAI Collab Challenge, a Google News Initiative partnership with Polis, the journalism think-tank at the London School of Economics and Political Science. Their goal was to help journalists around the world build solutions, powered by artificial intelligence, to enhance their reporting capabilities.Together, they prototyped helpful tools such as AFP and The Guardian’s machine learning solution to accurately extract quotes from news articles, the Political Misogynistic Discourse Monitor, which detects hate speech against women in several languages, and a guide to using AI and satellite imagery for storytelling.</body>
+    </post>
+</blogs>

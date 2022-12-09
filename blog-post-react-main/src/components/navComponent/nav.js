@@ -22,7 +22,7 @@ class Nav extends Component {
   }
 
   fetchArticles() {
-    fetch("https://newsapi.org/v2/everything?q=Apple&from=2022-04-16&sortBy=popularity&apiKey=") /* Paste the API KEY mentioned in submission in front of apiKey= */
+    fetch("https://https://newsapi.org/v2/everything?q=bitcoin&apiKey=73c789a4ad0d4a0e8838c52c58c46de9") /* Paste the API KEY mentioned in submission in front of apiKey= */
       .then(res => res.json())
       .then(
         (result) => {

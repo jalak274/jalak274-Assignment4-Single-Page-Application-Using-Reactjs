@@ -8,5 +8,8 @@ Step 1: Get the clone of repository and open it in VS CODE.<br />
 Step 2: Run command - npm install<br />
 Step 3: Run command - npm start<br />
 
+We can try different API links through this link using different live examples by entering on loine 25 of nav.js
+https://newsapi.org/docs/endpoints/everything
+
 And then it will redirect to the browser, where the webpage will be displayed. 
 

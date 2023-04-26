@@ -4,7 +4,7 @@ class Header extends Component {
   render() {
     return (
       <header className='bg-primary'>
-        <h2 className="header-container p-4 logo">Blog Post</h2>
+        <h2 className="header-container p-4 logo">Jalak's Blog Post</h2>
       </header>
     );
   }

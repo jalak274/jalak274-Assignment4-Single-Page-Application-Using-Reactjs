@@ -4,7 +4,7 @@ class Footer extends Component {
   render() {
     return (
       <footer className='bg-secondary text-center'>
-        <div className="footer-container p-4">&#169;2022 Vatsal Balar, Inc. All rights reserved.</div>
+        <div className="footer-container p-4">&#169;2023 Jalak Gevariya, Inc. All rights reserved.</div>
       </footer>
     );
   }

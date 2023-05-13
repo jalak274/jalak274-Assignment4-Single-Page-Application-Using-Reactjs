@@ -13,3 +13,4 @@ https://newsapi.org/docs/endpoints/everything
 
 And then it will redirect to the browser, where the webpage will be displayed. 
 
+Here is the link of my screen recording:- https://ufile.io/ajqfxq42

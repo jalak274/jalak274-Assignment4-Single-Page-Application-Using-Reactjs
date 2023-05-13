@@ -22,13 +22,13 @@ class Nav extends Component {
   }
 
   fetchArticles() {
-    fetch("https://https://newsapi.org/v2/everything?q=bitcoin&apiKey=73c789a4ad0d4a0e8838c52c58c46de9") /* Paste the API KEY mentioned in submission in front of apiKey= */
+    fetch("https://newsapi.org/v2/everything?q=bitcoin&apiKey=a25da3635d5b4bf683b45f240925d41e") /* Paste the API KEY mentioned in submission in front of apiKey= */
       .then(res => res.json())
       .then(
         (result) => {
           this.setState({
             isLoaded: true,
-            items: this.shuffleArray(result.articles).slice(Math.max(this.shuffleArray(result.articles).length - 5, 0))
+            items: this.shuffleArray(result.articles).slice(Math.max(this.shuffleArray(result.articles).length - 3, 0))
           });
         },
         (error) => {
@@ -58,7 +58,7 @@ class Nav extends Component {
       return <div>Loading...</div>;
     } else {
       return (
-        <nav className='pt-4'>
+        <nav className='pt-4' style = {{'margin-left': '80px', width: '20%'}}>
           <a className='btn btn-primary mb-2' onClick={Handlechange}>Homepage</a>
           {items.map(item => (
             <div className="card mb-2" key={item.author}>
